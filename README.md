@@ -1,7 +1,8 @@
+## Quick Information
+Yes, the website is still using the basic README.md file. I may try to improve this later but, for now, it's staying like this.
+
 ## Introduction
-Hello, my name is Mae. This page has not been completed, please allow some time for me to work on this. In the meantime, here is a basic list of things about me. Chances are, I won't complete this soon. I don't know how to make these.
-- Vtuber on Twitch and YouTube.
-- Transgender, use she/her and they/them.
-- Furry.
-- Beginner Python programmer.
-- Birthday is December 10th.
+My name is Mae, I am transfem and lesbian. I am a furry. I program as a hobby in Python, mainly using it for py-cord or other Discord related things.
+
+## Accounts
+[I will add these later]
