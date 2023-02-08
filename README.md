@@ -1,2 +1,2 @@
 # meolsei.github.io
-My personal bio.
+My personal page made with [newcss](https://newcss.net/)
